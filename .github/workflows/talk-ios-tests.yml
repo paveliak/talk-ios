@@ -17,7 +17,7 @@ env:
   WORKSPACE: NextcloudTalk.xcworkspace
   DESTINATION: platform=iOS Simulator,name=iPhone 16,OS=18.0
   SCHEME: NextcloudTalk
-  XCODE: 16.1
+  XCODE: 16.2
 
 jobs:
   build:
